@@ -18,7 +18,7 @@ Ingeniero Informático de ultimo año especializado en sistemas de la informacio
 -  [MuseoValverde](https://github.com/Wistry/MuseoValverde)
 -  [EcolivingProductions](https://github.com/Wistry/EcolivingProductions)
 -  [AppComparadorVideojuegos](https://github.com/Wistry/AppComparadorVideojuegos)
--  [TFG-AppMovil en proceso....]
+-  TFG-AppMovil en proceso....
 
 <!---
 Wistry/Wistry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
