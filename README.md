@@ -1,7 +1,21 @@
-- 👋 Hi, I'm @Wistry or William, I'm a future computer engineer studying at the University of Granada, in Spain.
-- 👀 I’m interested in new projects and technological advances.
-- 🌱 I’m currently learning computer engineer, doing my Bachelor's Final Project
-- ⚡ Fun fact: I'm also trying to do some extra jobs and get some experiences helping in projects to companies.
+# Hola, soy William Quinn (@Wistry) 👋
+
+Ingeniero Informático de ultimo año especializado en sistemas de la informacion. Estudio en la Universidad de Granada, España. Me apasiona la tecnología, la innovación y desarrollar proyectos que marquen la diferencia.
+
+## Acerca de mí
+
+- 🌱 Actualmente estoy desarrollando una aplicación móvil con servicios en la nube como parte de mi Trabajo Final de Grado.
+- 🎓 Estoy buscando acceder al Máster Universitario en Ciencia de Datos e Ingeniería de Computadoress en la Universidad de Granada para seguir profundizando mis conocimientos.
+- 👀 Me interesa participar en nuevos proyectos, avances tecnológicos y la resolución de problemas reales.
+- ⚡ Curiosidad: También estoy ganando experiencia extra realizando cursos para mejorar mi perfil profesional.
+
+## Conéctate conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/williamquinn03/) 
+- [Mis Proyectos]
+- 1. (https://github.com/Wistry/MuseoValverde)
+  2. (https://github.com/Wistry/EcolivingProductions)
+  3. (https://github.com/Wistry/AppComparadorVideojuegos)
 
 <!---
 Wistry/Wistry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
