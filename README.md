@@ -15,9 +15,9 @@ Ingeniero Informático de ultimo año especializado en sistemas de la informacio
 - [Email Personal](wistry7@gmail.com)
 
 ## Proyectos Propios
-- 1. [MuseoValverde](https://github.com/Wistry/MuseoValverde)
-- 2. [EcolivingProductions](https://github.com/Wistry/EcolivingProductions)
-- 3. [AppComparadorVideojuegos](https://github.com/Wistry/AppComparadorVideojuegos)
+-  [MuseoValverde](https://github.com/Wistry/MuseoValverde)
+-  [EcolivingProductions](https://github.com/Wistry/EcolivingProductions)
+-  [AppComparadorVideojuegos](https://github.com/Wistry/AppComparadorVideojuegos)
 
 <!---
 Wistry/Wistry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
