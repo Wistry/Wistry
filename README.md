@@ -101,6 +101,7 @@
 ###
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/Wistry/MuseoValverde/main/imagenes/logotipo.png" alt="Logo MuseoValverde" width="80" align="right">
   <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank">MuseoValverde</a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
   <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
   <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a>: Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
