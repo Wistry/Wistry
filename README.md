@@ -103,10 +103,13 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/Wistry/MuseoValverde/main/imagenes/logotipo.png" alt="Logo MuseoValverde" width="80" align="left">
   <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank">MuseoValverde</a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
+  
   <img src="https://github.com/Wistry/EcolivingProductions/raw/8011dab2856556399ec474bb12a88e10533b0202/webapp/images/logo.png" alt="Logo EcolivingProductions" width="80" align="left">
   <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
-  <img src="https://raw.githubusercontent.com/Wistry/AppComparadorVideojuegos/src/main/resources/static/LOGO.jpeg" alt="Logo PricePlayPay" width="80" align="left">
+  
+  <img src="https://github.com/Wistry/AppComparadorVideojuegos/raw/main/src/main/resources/static/LOGO.jpeg" alt="Logo PricePlayPay" width="80" align="left">
   <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a>: Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
+  
   <p>- TFG-AppMovil: En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
 </div>
 
