@@ -100,48 +100,67 @@
 
 ###
 
-<div align="left" style="display: flex; flex-direction: column; gap: 10px;">
+<div align="left" style="max-width: 800px; margin: 0 auto;">
 
-  <div style="display: flex; align-items: center; gap: 15px;">
-    <a href="https://github.com/Wistry/MuseoValverde" target="_blank">
-      <img src="https://raw.githubusercontent.com/Wistry/MuseoValverde/main/imagenes/logotipo.png" alt="Logo MuseoValverde" width="60">
-    </a>
-    <div>
-      <h4 style="margin: 0;">MuseoValverde</h4>
-      <p style="margin: 0;">Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
+  <!-- Proyecto 1 -->
+  <div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-radius: 8px; background: #f5f5f5; margin-bottom: 15px;">
+    <div style="flex-shrink: 0; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+      <a href="https://github.com/Wistry/MuseoValverde" target="_blank">
+        <img src="https://raw.githubusercontent.com/Wistry/MuseoValverde/main/imagenes/logotipo.png" 
+             alt="Logo MuseoValverde" 
+             style="width: 60px; height: 60px; object-fit: contain;">
+      </a>
+    </div>
+    <div style="flex: 1;">
+      <h4 style="margin: 0 0 5px 0; color: #2d3436;">MuseoValverde</h4>
+      <p style="margin: 0; color: #636e72; font-size: 0.9em;">Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 15px;">
-    <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">
-      <img src="https://github.com/Wistry/EcolivingProductions/raw/8011dab2856556399ec474bb12a88e10533b0202/webapp/images/logo.png" alt="Logo EcolivingProductions" width="60">
-    </a>
-    <div>
-      <h4 style="margin: 0;">EcolivingProductions</h4>
-      <p style="margin: 0;">Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
+  <!-- Proyecto 2 -->
+  <div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-radius: 8px; background: #f5f5f5; margin-bottom: 15px;">
+    <div style="flex-shrink: 0; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+      <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">
+        <img src="https://github.com/Wistry/EcolivingProductions/raw/8011dab2856556399ec474bb12a88e10533b0202/webapp/images/logo.png" 
+             alt="Logo EcolivingProductions" 
+             style="width: 60px; height: 60px; object-fit: contain;">
+      </a>
+    </div>
+    <div style="flex: 1;">
+      <h4 style="margin: 0 0 5px 0; color: #2d3436;">EcolivingProductions</h4>
+      <p style="margin: 0; color: #636e72; font-size: 0.9em;">Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 15px;">
-    <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">
-      <img src="https://github.com/Wistry/AppComparadorVideojuegos/raw/main/src/main/resources/static/LOGO.jpeg" alt="Logo PricePlayPay" width="60">
-    </a>
-    <div>
-      <h4 style="margin: 0;">AppComparadorVideojuegos</h4>
-      <p style="margin: 0;">Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
+  <!-- Proyecto 3 -->
+  <div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-radius: 8px; background: #f5f5f5; margin-bottom: 15px;">
+    <div style="flex-shrink: 0; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+      <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">
+        <img src="https://github.com/Wistry/AppComparadorVideojuegos/raw/main/src/main/resources/static/LOGO.jpeg" 
+             alt="Logo PricePlayPay" 
+             style="width: 60px; height: 60px; object-fit: contain;">
+      </a>
+    </div>
+    <div style="flex: 1;">
+      <h4 style="margin: 0 0 5px 0; color: #2d3436;">AppComparadorVideojuegos</h4>
+      <p style="margin: 0; color: #636e72; font-size: 0.9em;">Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
     </div>
   </div>
 
-  <div style="display: flex; align-items: center; gap: 15px;">
-    <img src="https://via.placeholder.com/60" alt="TFG" width="60">
-    <div>
-      <h4 style="margin: 0;">TFG-AppMovil</h4>
-      <p style="margin: 0;">En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
+  <!-- Proyecto 4 -->
+  <div style="display: flex; align-items: center; gap: 20px; padding: 15px; border-radius: 8px; background: #f5f5f5; margin-bottom: 15px;">
+    <div style="flex-shrink: 0; width: 70px; height: 70px; display: flex; align-items: center; justify-content: center;">
+      <img src="https://via.placeholder.com/60" 
+           alt="TFG" 
+           style="width: 60px; height: 60px; object-fit: contain; opacity: 0.7;">
+    </div>
+    <div style="flex: 1;">
+      <h4 style="margin: 0 0 5px 0; color: #2d3436;">TFG-AppMovil</h4>
+      <p style="margin: 0; color: #636e72; font-size: 0.9em;">En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
     </div>
   </div>
 
 </div>
-
 
 
 
