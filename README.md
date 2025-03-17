@@ -100,12 +100,12 @@
 
 ###
 
-<h4 align="left">
-- <a href="https://github.com/Wistry/MuseoValverde" target="_blank">MuseoValverde</a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).<br>
-- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.<br>
-- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a>: Aplicación para comparar precios de videojuegos usando API y web scraping.<br>
-- <strong>TFG-AppMovil</strong>: En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.
-</h4>
+<div align="left">
+  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank">MuseoValverde</a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
+  <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
+  <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a>: Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
+  <p>- TFG-AppMovil: En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
+</div>
 
 ###
 
@@ -115,17 +115,19 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/williamquinn03/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="wistry7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://t.me/willy_qc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
 </div>
 
 ###
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wistry/Wistry/output/pacman-contribution-graph-dark.svg">
