@@ -100,24 +100,39 @@
 
 ###
 
-<div align="left">
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://raw.githubusercontent.com/Wistry/MuseoValverde/main/imagenes/logotipo.png" alt="Logo MuseoValverde" width="80" style="margin-right: 10px;">
-    <p><strong><a href="https://github.com/Wistry/MuseoValverde" target="_blank">MuseoValverde</a></strong>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  
+  <div style="text-align: center; width: 250px;">
+    <a href="https://github.com/Wistry/MuseoValverde" target="_blank">
+      <img src="https://raw.githubusercontent.com/Wistry/MuseoValverde/main/imagenes/logotipo.png" alt="Logo MuseoValverde" width="80">
+    </a>
+    <h4>MuseoValverde</h4>
+    <p>Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
   </div>
 
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://github.com/Wistry/EcolivingProductions/raw/8011dab2856556399ec474bb12a88e10533b0202/webapp/images/logo.png" alt="Logo EcolivingProductions" width="80" style="margin-right: 10px;">
-    <p><strong><a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a></strong>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
+  <div style="text-align: center; width: 250px;">
+    <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">
+      <img src="https://github.com/Wistry/EcolivingProductions/raw/8011dab2856556399ec474bb12a88e10533b0202/webapp/images/logo.png" alt="Logo EcolivingProductions" width="80">
+    </a>
+    <h4>EcolivingProductions</h4>
+    <p>Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
   </div>
 
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
-    <img src="https://github.com/Wistry/AppComparadorVideojuegos/raw/main/src/main/resources/static/LOGO.jpeg" alt="Logo PricePlayPay" width="80" style="margin-right: 10px;">
-    <p><strong><a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a></strong>: Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
+  <div style="text-align: center; width: 250px;">
+    <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">
+      <img src="https://github.com/Wistry/AppComparadorVideojuegos/raw/main/src/main/resources/static/LOGO.jpeg" alt="Logo PricePlayPay" width="80">
+    </a>
+    <h4>AppComparadorVideojuegos</h4>
+    <p>Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
   </div>
 
-  <p><strong>TFG-AppMovil:</strong> En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
+  <div style="text-align: center; width: 250px;">
+    <h4>TFG-AppMovil</h4>
+    <p>En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
+  </div>
+
 </div>
+
 
 
 ###
