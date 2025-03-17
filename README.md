@@ -101,7 +101,7 @@
 ###
 
 <div align="left">
-  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</stronsg></a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
+  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
   <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
   <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a>: Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
   <p>- TFG-AppMovil: En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
