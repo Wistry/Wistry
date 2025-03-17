@@ -61,8 +61,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -102,7 +100,12 @@
 
 ###
 
-<h4 align="left">-  [MuseoValverde](https://github.com/Wistry/MuseoValverde)<br>-  [EcolivingProductions](https://github.com/Wistry/EcolivingProductions)<br>-  [AppComparadorVideojuegos](https://github.com/Wistry/AppComparadorVideojuegos)<br>-  TFG-AppMovil en proceso....</h4>
+<h4 align="left">
+- <a href="https://github.com/Wistry/MuseoValverde" target="_blank">MuseoValverde</a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).<br>
+- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">EcolivingProductions</a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.<br>
+- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">AppComparadorVideojuegos</a>: Aplicación para comparar precios de videojuegos usando API y web scraping.<br>
+- <strong>TFG-AppMovil</strong>: En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.
+</h4>
 
 ###
 
