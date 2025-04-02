@@ -1,4 +1,4 @@
-<h1 align="left">Hola, soy William Quinn (Will) 👋</h1>
+<h1 align="left">Hola, soy William Quinn 👋</h1>
 
 ###
 
