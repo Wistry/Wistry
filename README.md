@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Ingeniero Informático de ultimo año especializado en sistemas de la información. Estudio en la Universidad de Granada, España. Me apasiona la tecnología, la innovación y desarrollar proyectos que marquen la diferencia.</p>
+<p align="left">Ingeniero informático con enfoque en el desarrollo de software, bases de datos y servicios web.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🌱 Actualmente estoy desarrollando una aplicación móvil con servicios en la nube como parte de mi Trabajo Final de Grado.<br>- 🎓 Estoy buscando acceder al Máster Universitario en Ciencia de Datos e Ingeniería de Computadoress en la Universidad de Granada para seguir profundizando mis conocimientos.<br>- 👀 Me interesa participar en nuevos proyectos, avances tecnológicos y la resolución de problemas reales.<br>- ⚡ Curiosidad: También estoy ganando experiencia extra realizando cursos para mejorar mi perfil profesional.</p>
+<p align="left">- 🎓 He finalizado recientemente mis estudios con proyectos centrados en el desarrollo movil, uso de servicios en la nube y metodología DevOps. <br>- 🌱 busco una oportunidad para aplicar mis conocimientos en entornos tanto nacionales como internacionales .<br>- 👀 Me interesa participar en nuevos proyectos, avances tecnológicos y la resolución de problemas reales.<br>- ⚡ Curiosidad: También estoy ganando experiencia extra realizando cursos para mejorar mi perfil profesional.</p>
 
 ###
 
@@ -63,8 +63,6 @@
   <img width="12" />
   <a href="https://firebase.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
   <img width="12" />
-  <a href="https://nodejs.org/en/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" /></a>
-  <img width="12" />
   <a href="https://code.visualstudio.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a>
   <img width="12" />
   <a href="https://jupyter.org/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /></a>
@@ -77,8 +75,6 @@
 ###
 
 <div align="left">
-  <a href="https://docs.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" /></a>
-  <img width="12" />
   <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /></a>
   <img width="12" />
   <a href="https://docs.oracle.com/en/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" /></a>
@@ -86,8 +82,6 @@
   <a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></a>
   <img width="12" />
   <a href="https://sqlite.org/docs.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" /></a>
-  <img width="12" />
-  <a href="https://dev.opera.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo" /></a>
   <img width="12" />
   <a href="https://firebase.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
 </div>
@@ -99,10 +93,10 @@
 ###
 
 <div align="left">
-  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</strong></a>: Práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
-  <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank"><strong>EcolivingProductions</strong></a>: Proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
-  <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank"><strong>AppComparadorVideojuegos</strong></a>: Aplicación para comparar precios de videojuegos usando API y web scraping.</p>
-  <p>- <strong>TFG-AppMovil</strong>: En proceso – Proyecto de Trabajo Fin de Grado para una aplicación móvil.</p>
+  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</strong></a>: práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
+  <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank"><strong>EcolivingProductions</strong></a>: proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
+  <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank"><strong>AppComparadorVideojuegos</strong></a>: aplicación para comparar precios de videojuegos usando API y web scraping.</p>
+  <p>- <a href="https://github.com/Wistry/BikeLov" target="_blank"><strong>BikeLov</strong></a>: aplicacion movil de cicilismo con apartado de red social y de monitorizacion y analisis.</p>
 </div>
 
 
