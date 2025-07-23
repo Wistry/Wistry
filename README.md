@@ -1,24 +1,29 @@
-<h1 align="left">Hola, soy William Quinn 👋</h1>
+<h1 align="left">Hi, I'm William Quinn 👋</h1>
 
 ###
 
-<p align="left">Ingeniero informático con enfoque en el desarrollo de software, bases de datos y servicios web.</p>
+<p align="left">Computer Engineer focused on software development, databases, and web services.</p>
 
 ###
 
-<h2 align="left">Acerca de mí</h2>
+<h2 align="left">About Me</h2>
 
 ###
 
-<p align="left">- 🎓 He finalizado recientemente mis estudios con proyectos centrados en el desarrollo movil, uso de servicios en la nube y metodología DevOps. <br>- 🌱 busco una oportunidad para aplicar mis conocimientos en entornos tanto nacionales como internacionales .<br>- 👀 Me interesa participar en nuevos proyectos, avances tecnológicos y la resolución de problemas reales.<br>- ⚡ Curiosidad: También estoy ganando experiencia extra realizando cursos para mejorar mi perfil profesional.</p>
+<p align="left">
+- 🎓 Recently graduated with projects focused on mobile development, cloud services, and DevOps practices.<br>
+- 🌱 I'm looking for an opportunity to apply my knowledge in both national and international environments.<br>
+- 👀 I'm interested in contributing to new projects, technological innovation, and solving real-world problems.<br>
+- ⚡ Fun fact: I'm currently enhancing my skills through extra courses to improve my professional profile.
+</p>
 
 ###
 
-<h2 align="left">Tecnologias ✨</h2>
+<h2 align="left">Technologies ✨</h2>
 
 ###
 
-<h4 align="left">Lenguajes</h4>
+<h4 align="left">Languages</h4>
 
 ###
 
@@ -44,7 +49,7 @@
 
 ###
 
-<h4 align="left">Herramientas</h4>
+<h4 align="left">Tools</h4>
 
 ###
 
@@ -70,7 +75,7 @@
 
 ###
 
-<h4 align="left">Base de datos</h4>
+<h4 align="left">Database</h4>
 
 ###
 
@@ -88,21 +93,21 @@
 
 ###
 
-<h2 align="left">Proyectos propios</h2>
+<h2 align="left">Personal Projects</h2>
 
 ###
 
 <div align="left">
-  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</strong></a>: práctica de programación web para un museo, con gestión de obras (DB no incluida).</p>
-  <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank"><strong>EcolivingProductions</strong></a>: proyecto colaborativo de una tienda online de muebles inteligentes ecológicos.</p>
-  <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank"><strong>AppComparadorVideojuegos</strong></a>: aplicación para comparar precios de videojuegos usando API y web scraping.</p>
-  <p>- <a href="https://github.com/Wistry/BikeLov" target="_blank"><strong>BikeLov</strong></a>: aplicacion movil de cicilismo con apartado de red social y de monitorizacion y analisis.</p>
+  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</strong></a>: Web development practice for a museum, with artwork management.</p>
+  <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank"><strong>EcolivingProductions</strong></a>: Collaborative project of an online store for smart, eco-friendly furniture.</p>
+  <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank"><strong>AppComparadorVideojuegos</strong></a>: Price comparison app for video games using API and web scraping.</p>
+  <p>- <a href="https://github.com/Wistry/BikeLov" target="_blank"><strong>BikeLov</strong></a>: Mobile cycling app with social features, route monitoring, and performance analysis. [EN]</p>
 </div>
 
 
 ###
 
-<h2 align="left">Conéctate conmigo</h2>
+<h2 align="left">Connect with Me</h2>
 
 ###
 
