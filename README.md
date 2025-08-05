@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-- 🎓 Recently graduated with projects focused on mobile development, cloud services, and DevOps practices.<br>
+- 🎓 Recently graduated, specializing in mobile development, cloud services, and DevOps practices.<br>
 - 🌱 I'm looking for an opportunity to apply my knowledge in both national and international environments.<br>
 - 👀 I'm interested in contributing to new projects, technological innovation, and solving real-world problems.<br>
 - ⚡ Fun fact: I'm currently enhancing my skills through extra courses to improve my professional profile.
