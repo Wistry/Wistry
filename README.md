@@ -2,126 +2,129 @@
 
 ###
 
-<p align="left">Computer Engineer focused on software development, databases, and web services.</p>
+<p align="left">Computer Engineer (UGR) & Data Scientist in training. Passionate about turning raw data into actionable insights.</p>
 
 ###
 
-<h2 align="left">About Me</h2>
+<h2 align="left">About Me 🚀</h2>
 
 ###
 
 <p align="left">
-- 🎓 Recently graduated, specializing in mobile development, cloud services, and DevOps practices.<br>
-- 🌱 I'm looking for an opportunity to apply my knowledge in both national and international environments.<br>
-- 👀 I'm interested in contributing to new projects, technological innovation, and solving real-world problems.<br>
-- ⚡ Fun fact: I'm currently enhancing my skills through extra courses to improve my professional profile.
+- 🎓 <strong>Computer Engineering</strong> graduate from the <strong>University of Granada (UGR)</strong>.<br>
+- 📊 Currently pursuing a <strong>Master's in Data Science and Computer Enginnering (UGR)</strong>.<br>
+- 🔭 Open to <strong>Internships</strong> and <strong>Junior roles</strong> (Remote or Hybrid) related to Data Analysis, ML, or Software Engineering.<br>
+- 💡 I combine strong software engineering principles (Clean Code, DevOps) with analytical skills.<br>
+- ⚡ Fun fact: I love optimizing algorithms almost as much as I love cycling.
 </p>
 
 ###
 
-<h2 align="left">Technologies ✨</h2>
+<h2 align="left">Tech Stack 🛠️</h2>
 
 ###
 
-<h4 align="left">Languages</h4>
-
-###
-
+<h3 align="left">Data Science & AI</h3>
 <div align="left">
-  <a href="https://devdocs.io/cpp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" /></a>
-  <img width="12" />
-  <a href="https://developer.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" /></a>
-  <img width="12" />
-  <a href="https://docs.oracle.com/en/java/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" /></a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" /></a>
-  <img width="12" />
-  <a href="https://www.php.net/docs.php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" /></a>
-  <img width="12" />
-  <a href="https://docs.python.org/3/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" /></a>
-  <img width="12" />
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" /></a>
-  <img width="12" />
-  <a href="https://www.arduino.cc/en/Guide"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><img width="12" />
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a><img width="12" />
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><img width="12" />
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a><img width="12" />
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a><img width="12" />
+  <a href="https://jupyter.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
 </div>
 
 ###
 
-<h4 align="left">Tools</h4>
-
-###
-
+<h3 align="left">Software Engineering & Backend</h3>
 <div align="left">
-  <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" /></a>
-  <img width="12" />
-  <a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" /></a>
-  <img width="12" />
-  <a href="https://git-scm.com/doc"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" /></a>
-  <img width="12" />
-  <a href="https://cloud.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" /></a>
-  <img width="12" />
-  <a href="https://reactjs.org/docs/getting-started.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" /></a>
-  <img width="12" />
-  <a href="https://docs.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" /></a>
-  <img width="12" />
-  <a href="https://firebase.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
-  <img width="12" />
-  <a href="https://code.visualstudio.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a>
-  <img width="12" />
-  <a href="https://jupyter.org/documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><img width="12" />
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><img width="12" />
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a><img width="12" />
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a><img width="12" />
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a><img width="12" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a><img width="12" />
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/></a><img width="12" />
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="40" height="40"/></a>
 </div>
 
 ###
 
-<h4 align="left">Database</h4>
+<h2 align="left">Featured Projects 📂</h2>
+
+<h3 align="left">🔴 Data Science & Research</h3>
+
+<table>
+  <tr>
+    <td width="25%">
+      <strong>MSc Final Project (SKA)</strong>
+      <br>
+      <sub>Radio Astronomy Analysis</sub>
+    </td>
+    <td>
+      Research for the <strong>Square Kilometre Array (SKA)</strong>. Implementation of <strong>Ensemble Learning</strong> strategies and reproducible pipelines for large-scale data.
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">🔵 Software Engineering</h3>
+
+<table>
+  <tr>
+    <td width="25%">
+      <a href="https://github.com/Wistry/BikeLov" target="_blank">
+        <img src="https://img.shields.io/badge/BikeLov-Android-3DDC84?style=flat&logo=android&logoColor=white" alt="BikeLov"/>
+      </a>
+    </td>
+    <td>
+      Cloud-integrated cycling app using <strong>Firebase</strong> (Auth/Realtime DB) and external <strong>REST APIs</strong>.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">
+        <img src="https://img.shields.io/badge/GamePrice-Python-3776AB?style=flat&logo=python&logoColor=white" alt="GamePrice"/>
+      </a>
+    </td>
+    <td>
+      Price comparison engine built with <strong>Web Scraping</strong> and API consumption logic.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/Wistry/MuseoValverde" target="_blank">
+        <img src="https://img.shields.io/badge/Museo-Full_Stack-4285F4?style=flat&logo=google-chrome&logoColor=white" alt="MuseoValverde"/>
+      </a>
+    </td>
+    <td>
+      Artwork management system for museums featuring complete <strong>CRUD</strong> operations and Admin Panel.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">
+        <img src="https://img.shields.io/badge/Ecoliving-E_Commerce-FF9900?style=flat&logo=amazon&logoColor=white" alt="Ecoliving"/>
+      </a>
+    </td>
+    <td>
+      Eco-friendly furniture store platform focused on <strong>UX/UI Design</strong> and database efficiency.
+    </td>
+  </tr>
+</table>
 
 ###
 
-<div align="left">
-  <a href="https://dev.mysql.com/doc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" /></a>
-  <img width="12" />
-  <a href="https://docs.oracle.com/en/database/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" /></a>
-  <img width="12" />
-  <a href="https://www.postgresql.org/docs/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" /></a>
-  <img width="12" />
-  <a href="https://sqlite.org/docs.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" /></a>
-  <img width="12" />
-  <a href="https://firebase.google.com/docs"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" /></a>
-</div>
+<h2 align="left">Let's Connect</h2>
 
 ###
 
-<h2 align="left">Personal Projects</h2>
-
-###
-
-<div align="left">
-  <p>- <a href="https://github.com/Wistry/MuseoValverde" target="_blank"><strong>MuseoValverde</strong></a>: Web development practice for a museum, with artwork management.</p>
-  <p>- <a href="https://github.com/Wistry/EcolivingProductions" target="_blank"><strong>EcolivingProductions</strong></a>: Collaborative project of an online store for smart, eco-friendly furniture.</p>
-  <p>- <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank"><strong>AppComparadorVideojuegos</strong></a>: Price comparison app for video games using API and web scraping.</p>
-  <p>- <a href="https://github.com/Wistry/BikeLov" target="_blank"><strong>BikeLov</strong></a>: Mobile cycling app with social features, route monitoring, and performance analysis. [EN]</p>
-</div>
-
-
-###
-
-<h2 align="left">Connect with Me</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/williamquinn03/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:wistry7@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://t.me/willy_qc" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/williamquinn03/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:wistry7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+</p>
 
 ###
 
