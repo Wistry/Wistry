@@ -81,14 +81,14 @@
     </td>
   </tr>
   
-  <tr>
+ <tr>
     <td>
       <a href="https://github.com/Wistry/AppComparadorVideojuegos" target="_blank">
-        <img src="https://img.shields.io/badge/GamePrice-Python-3776AB?style=flat&logo=python&logoColor=white" alt="GamePrice"/>
+        <img src="https://img.shields.io/badge/GamePrice-Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="GamePrice"/>
       </a>
     </td>
     <td>
-      Price comparison engine built with <strong>Web Scraping</strong> and API consumption logic.
+      Price comparison engine built with <strong>Java</strong> utilizing <strong>Web Scraping</strong> techniques and API consumption.
     </td>
   </tr>
   
@@ -106,7 +106,7 @@
   <tr>
     <td>
       <a href="https://github.com/Wistry/EcolivingProductions" target="_blank">
-        <img src="https://img.shields.io/badge/Ecoliving-E_Commerce-FF9900?style=flat&logo=amazon&logoColor=white" alt="Ecoliving"/>
+        <img src="https://img.shields.io/badge/Ecoliving-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="Ecoliving"/>
       </a>
     </td>
     <td>
